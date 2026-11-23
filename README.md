@@ -107,6 +107,16 @@ cmp secret.txt decoded.txt
 
 If there is no output, both files are identical.
 
+## Project Screenshots
+
+### Encoding Process
+
+![Encoding Output](screenshots/encoding.png)
+
+### Decoding Process
+
+![Decoding Output](screenshots/decoding.png)
+
 ## Author
 
 Venkata Ravindra Nandhem
